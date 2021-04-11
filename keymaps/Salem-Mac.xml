@@ -62,9 +62,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="meta o_with_diaeresis" />
-  </action>
+  <action id="ToggleDistractionFreeMode" />
   <action id="Vcs.Log.Refresh" />
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="meta f11" />
