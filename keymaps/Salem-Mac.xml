@@ -1,4 +1,4 @@
-<keymap version="1" name="Default Aaron" parent="$default">
+<keymap version="1" name="Salem-Mac" parent="$default">
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
